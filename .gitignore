@@ -1,0 +1,33 @@
+# Ignore system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.gitconfig
+.npmrc
+.node_repl_history
+.viminfo
+
+# Ignore build and runtime files
+node_modules/
+dist/
+build/
+package-lock.json
+
+# Ignore OS-specific files
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
+# Ignore user-specific files
+*.pdf
+*.lnk
+*.php
+*.txt
